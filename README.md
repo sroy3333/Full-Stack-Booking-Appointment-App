@@ -285,7 +285,6 @@ app.js  ──▶  Express Router (routes/)
 ---
 
 <div align="center">
-  <p>Built with 💙 to make appointment scheduling simple and reliable.</p>
   <p>
     <a href="https://github.com/sroy3333/Full-Stack-Booking-Appointment-App/issues">Report a Bug</a> ·
     <a href="https://github.com/sroy3333/Full-Stack-Booking-Appointment-App/issues">Request a Feature</a> ·
